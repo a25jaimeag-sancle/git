@@ -1,6 +1,6 @@
 ## Comandos útiles
 
-PAra consultar la configuración de red:
+Para consultar la configuración de red:
 
 ```bash
 ip addr
