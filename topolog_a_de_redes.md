@@ -75,3 +75,9 @@ Cada una tiene características únicas que la hacen adecuada para distintos esc
 * [Introducción a Redes - Cisco](https://www.cisco.com)
 * [Wikipedia: Topología de red](https://es.wikipedia.org/wiki/Topología_de_red)
 * Video explicativo en YouTube
+
+## Información del proyecto
+
+Esta documentación se ha elaborado utilizando Markdown.
+El control de versiones se realiza mediante Git
+y el repositorio remoto se encuentra alojado en GitHub.
