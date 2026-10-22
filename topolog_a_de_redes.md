@@ -82,3 +82,9 @@ Esta documentación se ha elaborado utilizando Markdown.
 
 El control de versiones se realiza mediante Git
 y el repositorio remoto se encuentra alojado en GitHub.
+
+## Próximas mejoras
+Posibles mejoras a futuro:
+1. Mejora 1.
+2. Mejora 2.
+3. Mejora 3.
